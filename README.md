@@ -14,11 +14,11 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Samba, ceph, kubernetes, rook.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on Samba, ceph, kubernetes-related technologies, rook.
+- 🌱 I’m currently learning [...]
+- 👯 I’m looking to collaborate on https://github.com/samba-in-kubernetes
+- 🤔 I’m looking for help with adding (Samba) Active Directory as identity provider to kubernetes.
 - 💬 Ask me about Samba
 - 📫 How to reach me: obnox on matrix.org, obnox on kubernetes slack
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: learning Danish and Spanish on duolingo as obnoxxx
