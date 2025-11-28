@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Samba
 - 📫 How to reach me: obnox on matrix.org, obnox on kubernetes slack
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: learning Danish, Italian,  and Spanish on duolingo as obnoxxx
+- ⚡ Fun fact: learning Danish, Italian, Swedish,   and Spanish on duolingo as obnoxxx
