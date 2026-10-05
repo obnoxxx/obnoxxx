@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Samba, ceph, storage- and kubernetes-related technologies, rook.
-- I'm also  working  on procedural soiftware contracts (see  https://github.com/gontract/gontract for go and https://github.com/SeaTract/seatract for C).
+- I'm also  working  on procedural software contracts (see  https://github.com/gontract/gontract for go and https://github.com/SeaTract/seatract for C).
 - 🌱 I’m currently learning [python, ...]
 - 👯 I’m looking to collaborate on https://github.com/samba-in-kubernetes
 - 🤔 I’m looking for help with adding (Samba) Active Directory as identity provider to kubernetes (details to be added).
